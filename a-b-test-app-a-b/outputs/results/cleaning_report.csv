@@ -1,0 +1,6 @@
+item,value
+raw_rows,60120
+duplicate_user_rows,120
+rows_with_missing_values,80
+invalid_rows,0
+clean_rows,59920

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="450.0" y="38" text-anchor="middle" font-family="Arial" font-size="22" font-weight="bold">CTR by Device and Group</text>
+<line x1="80" y1="440" x2="820" y2="440" stroke="#94a3b8"/>
+<rect x="121.1" y="185.6" width="102.8" height="254.4" rx="5" fill="#64748B"/>
+<text x="172.5" y="175.6" text-anchor="middle" font-family="Arial" font-size="16">12.76%</text>
+<text x="172.5" y="465" text-anchor="middle" font-family="Arial" font-size="14">Android - control</text>
+<rect x="306.1" y="166.6" width="102.8" height="273.4" rx="5" fill="#2563EB"/>
+<text x="357.5" y="156.6" text-anchor="middle" font-family="Arial" font-size="16">13.72%</text>
+<text x="357.5" y="465" text-anchor="middle" font-family="Arial" font-size="14">Android - treatment</text>
+<rect x="491.1" y="170.9" width="102.8" height="269.1" rx="5" fill="#64748B"/>
+<text x="542.5" y="160.9" text-anchor="middle" font-family="Arial" font-size="16">13.50%</text>
+<text x="542.5" y="465" text-anchor="middle" font-family="Arial" font-size="14">iOS - control</text>
+<rect x="676.1" y="152.0" width="102.8" height="288.0" rx="5" fill="#2563EB"/>
+<text x="727.5" y="142.0" text-anchor="middle" font-family="Arial" font-size="16">14.45%</text>
+<text x="727.5" y="465" text-anchor="middle" font-family="Arial" font-size="14">iOS - treatment</text>
+</svg>

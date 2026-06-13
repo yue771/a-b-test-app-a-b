@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520">
+<rect width="100%" height="100%" fill="#ffffff"/>
+<text x="450.0" y="38" text-anchor="middle" font-family="Arial" font-size="22" font-weight="bold">CVR by Source and Group</text>
+<line x1="80" y1="440" x2="820" y2="440" stroke="#94a3b8"/>
+<rect x="100.6" y="255.4" width="51.4" height="184.6" rx="5" fill="#64748B"/>
+<text x="126.2" y="245.4" text-anchor="middle" font-family="Arial" font-size="16">2.26%</text>
+<text x="126.2" y="465" text-anchor="middle" font-family="Arial" font-size="14">organic - control</text>
+<rect x="193.1" y="198.3" width="51.4" height="241.7" rx="5" fill="#2563EB"/>
+<text x="218.8" y="188.3" text-anchor="middle" font-family="Arial" font-size="16">2.96%</text>
+<text x="218.8" y="465" text-anchor="middle" font-family="Arial" font-size="14">organic - treatment</text>
+<rect x="285.6" y="223.2" width="51.4" height="216.8" rx="5" fill="#64748B"/>
+<text x="311.2" y="213.2" text-anchor="middle" font-family="Arial" font-size="16">2.65%</text>
+<text x="311.2" y="465" text-anchor="middle" font-family="Arial" font-size="14">paid_search - control</text>
+<rect x="378.1" y="153.8" width="51.4" height="286.2" rx="5" fill="#2563EB"/>
+<text x="403.8" y="143.8" text-anchor="middle" font-family="Arial" font-size="16">3.50%</text>
+<text x="403.8" y="465" text-anchor="middle" font-family="Arial" font-size="14">paid_search - treatment</text>
+<rect x="470.6" y="187.3" width="51.4" height="252.7" rx="5" fill="#64748B"/>
+<text x="496.2" y="177.3" text-anchor="middle" font-family="Arial" font-size="16">3.09%</text>
+<text x="496.2" y="465" text-anchor="middle" font-family="Arial" font-size="14">referral - control</text>
+<rect x="563.1" y="152.0" width="51.4" height="288.0" rx="5" fill="#2563EB"/>
+<text x="588.8" y="142.0" text-anchor="middle" font-family="Arial" font-size="16">3.52%</text>
+<text x="588.8" y="465" text-anchor="middle" font-family="Arial" font-size="14">referral - treatment</text>
+<rect x="655.6" y="216.2" width="51.4" height="223.8" rx="5" fill="#64748B"/>
+<text x="681.2" y="206.2" text-anchor="middle" font-family="Arial" font-size="16">2.74%</text>
+<text x="681.2" y="465" text-anchor="middle" font-family="Arial" font-size="14">social - control</text>
+<rect x="748.1" y="179.7" width="51.4" height="260.3" rx="5" fill="#2563EB"/>
+<text x="773.8" y="169.7" text-anchor="middle" font-family="Arial" font-size="16">3.18%</text>
+<text x="773.8" y="465" text-anchor="middle" font-family="Arial" font-size="14">social - treatment</text>
+</svg>
